@@ -1,7 +1,7 @@
 # Blog
 💻 Blog feito com Angular
 <h2>📖Descrição</h2>
-Blog desenvolvido com o framework Angular , utilizando HTML , CSS e Typescript durante o bootcamp  na plataforma da Digital Innovation One .
+Blog desenvolvido com o framework Angular , utilizando HTML , CSS e Typescript durante o bootcamp Santander na plataforma da Digital Innovation One  na plataforma da Digital Innovation One.
 
 Consiste em um pequeno blog com uma página principal, que contém as capas dos artigos com título e descrição. Esses links direcionam o usuário através das rotas, para acessar uma página contendo o conteúdo.
 
